@@ -1,0 +1,32 @@
+header .header-up{
+    background-color: brown;
+    width: 40cm;
+    height: 5cm;
+}
+header .header-up h1{
+    padding: 100px;
+    margin-left: 520px;
+}
+
+header .header-down{
+    background-color: burlywood;
+    width: 40cm;
+    height: 30cm;
+}
+
+header .navbar ul{
+    
+    list-style: none;
+    display: flex;
+}
+
+header .navbar ul li{
+    padding-left: 10px;
+}
+
+header .navbar ul li a{
+     text-decoration: none  ;
+     color: green;
+     padding: 100px;
+     
+}
